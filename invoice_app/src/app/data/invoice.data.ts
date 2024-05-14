@@ -1,4 +1,4 @@
-export const invoiceData = {
+export const invoiceData: any = {
     id: 1,
     name: "Componentes de PC",
     client:{
@@ -33,6 +33,6 @@ export const invoiceData = {
             product: 'Teclado Asus',
             price: 350,
             quantity:1,
-        },
+        }
     ]
 }
